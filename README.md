@@ -58,8 +58,6 @@ Software Development Engineer @ Amazon
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/garvinec)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/garvinechan)
 
----
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvinec&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvinec&layout=compact&theme=radical" alt="Most Used Languages" />
