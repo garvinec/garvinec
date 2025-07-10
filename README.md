@@ -2,7 +2,7 @@
 
 Software Development Engineer @ Amazon
 
-- 🔭 I’m currently working on Credexa.ai (Coming soon)
+- 🔭 I’m currently working on Credexa.ai (Loading...)
 - 🌱 I’m currently learning Mobile Dev
 - ⚡ Fun fact: I like Photography, Videography, Anime, and Basketball
 
